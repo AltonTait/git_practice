@@ -1,2 +1,2 @@
 Hello Git and GitHub
-Alton Tait New GitHub
+Alton Tait New To GitHub
